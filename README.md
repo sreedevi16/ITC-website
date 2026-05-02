@@ -1,2 +1,2 @@
-# ITC-Web-Team-Assignment
-Assignment for ITC webteam 
+# ITC-Website
+ITC Website
